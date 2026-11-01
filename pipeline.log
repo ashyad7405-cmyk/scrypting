@@ -1,0 +1,4 @@
+2026-11-01 08:20:59,661 - INFO - Starting ETL Pipeline Execution...
+2026-11-01 08:21:00,662 - INFO - Extracting data from: https://toscrape.com/catalogue/page-1.html
+2026-11-01 08:21:02,509 - INFO - No more pages found or structural extraction halted.
+2026-11-01 08:21:02,509 - ERROR - Pipeline finished with zero records extracted.

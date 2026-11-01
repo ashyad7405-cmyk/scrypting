@@ -1,0 +1,11 @@
+{
+    "total_items_scraped": 60,
+    "average_price": 34.62,
+    "median_price": 33.15,
+    "max_price": 59.45,
+    "min_price": 10.02,
+    "average_rating": 3.12,
+    "stock_status_counts": {
+        "In stock": 60
+    }
+}
